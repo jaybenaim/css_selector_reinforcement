@@ -1,0 +1,35 @@
+body { 
+    position: absolute; 
+}
+p { 
+    color: red; 
+    padding: 0 20px; 
+}
+nav { 
+    position: relative; 
+    left: 45%; 
+
+}
+nav ul li a:hover { 
+    color: lightgreen; 
+}
+nav ul li:hover { 
+    color: lightgreen; 
+}
+h1 { 
+    font-size: 70px; 
+    text-align: center; 
+}
+h2 { 
+    text-align: center; 
+}
+
+.images li { 
+    display: inline-block; 
+    padding: 40px; 
+
+}
+.images li img { 
+    height: 100px; 
+    width: 100px; 
+}
